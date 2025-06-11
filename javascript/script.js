@@ -1,5 +1,5 @@
 // Data de início do relacionamento (AJUSTE AQUI PARA SUA DATA)
-const startDate = new Date('2020-03-15T00:00:00');
+const startDate = new Date('2014-12-06T00:00:00');
 
 // Função para criar partículas
 function createParticles() {
