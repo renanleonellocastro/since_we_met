@@ -1,0 +1,4 @@
+plugins:
+  - jekyll-readme-index
+readme_index:
+  enabled: false
